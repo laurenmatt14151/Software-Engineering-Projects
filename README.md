@@ -8,6 +8,7 @@ Portfolio showcasing my skills applied to practical software engineering project
 <ul><li><strong>Pointers</strong> for dynamic memory allocations and linking tasks</ul>
 <ul><li><strong>Hash tables</strong> for quick lookup of tasks by name or ID</ul>
 <ul><li><strong>Trees</strong> for organizing tasks hierarchally</ul>
+![Task Management Plan](Software-Engineering-Projects/Images/TaskManagment.png)
 
 ## Library Management System
 
