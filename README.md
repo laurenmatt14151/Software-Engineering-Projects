@@ -2,13 +2,21 @@
 Portfolio showcasing my skills applied to practical software engineering projects
 
 ## Task Management System
-<ul><li><strong>Linked lists</strong> for management of tasks</ul>
-<ul><li><strong>Queues</strong> for task scheduling</ul>
-<ul><li><strong>Stacks</strong> for undo functionality</ul>
-<ul><li><strong>Pointers</strong> for dynamic memory allocations and linking tasks</ul>
-<ul><li><strong>Hash tables</strong> for quick lookup of tasks by name or ID</ul>
-<ul><li><strong>Trees</strong> for organizing tasks hierarchally</ul>
-![Task Management Plan](Software-Engineering-Projects/Images/TaskManagement.png)
+<table>
+  <tr>
+    <td>
+      <ul><li><strong>Linked lists</strong> for management of tasks</ul>
+      <ul><li><strong>Queues</strong> for task scheduling</ul>
+      <ul><li><strong>Stacks</strong> for undo functionality</ul>
+      <ul><li><strong>Pointers</strong> for dynamic memory allocations and linking tasks</ul>
+      <ul><li><strong>Hash tables</strong> for quick lookup of tasks by name or ID</ul>
+      <ul><li><strong>Trees</strong> for organizing tasks hierarchally</ul>
+    </td>
+    <td>
+      <img src= Images/TaskManagement.png alt=Task Management System Plan width="500">
+    </td>
+  </tr>
+</table>
 
 ## Library Management System
 
