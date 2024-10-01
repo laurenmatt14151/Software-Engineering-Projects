@@ -1,6 +1,17 @@
 # Software-Engineering-Projects
 Portfolio showcasing my skills applied to practical software engineering projects
 
+## La La Learning Game
+A game and learning platform where users can earn points by learning topics and exchange them for rewards like gems, characters, etc.
+<ul>
+  <li>User registration and login.</li>
+  <li>Learning modules or quizzes on different topics.</li>
+  <li>Points system for completing tasks.</li>
+  <li>Rewards shop where users can exchange points for gems or characters.</li>
+  <li>Leaderboard to encourage competition.</li>
+  <li>Profile page for tracking user progress.</li>
+</ul>
+
 ## Task Management System
 <table>
   <tr>
